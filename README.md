@@ -18,6 +18,15 @@ Si l'élément est supprimable placer un bouton de suppression dans la colonne a
 Si le bouton est cliqué, il faut que la ligne entière soit signalée comme en train de charger.
 Puis mettre un timer de 2 secondes au bout du quel l'élément est supprimé du tableau.
 
+Vous êtes libres d'installer une libraire de style ou composants si vous sentez plus à l'aise avec ou que vous voulez aller plus loin : 
+
+ - [Tailwind](https://tailwindcss.com/docs/installation/using-vite) 
+ - [ShadCn](https://ui.shadcn.com/docs/installation/vite) 
+ - [Material UI](https://mui.com/material-ui/getting-started/) 
+ - [Semantic UI](https://react.semantic-ui.com/usage) 
+ - [Chakra UI](https://chakra-ui.com/docs/get-started/installation) 
+ - [Boostrap](https://react-bootstrap.netlify.app/docs/getting-started/introduction) 
+
 ## Doc :
 
 -   [React.JS](https://react.dev/)
