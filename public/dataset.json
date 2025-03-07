@@ -1,0 +1,104 @@
+{
+	"table": [
+		{ "id": 1, "label": "Libellé 1", "amount": 100, "removable": true },
+		{ "id": 2, "label": "Libellé 2", "tva": 20, "amount": 120, "removable": true },
+		{ "id": 5, "label": "Libellé 3", "tva": 20, "amount": 115, "removable": true },
+		{ "id": 7, "label": "Libellé 4", "tva": 20, "amount": 30, "removable": true },
+		{ "id": 19, "label": "Libellé 5", "amount": 1, "removable": true },
+		{
+			"id": 34,
+			"label": "Libellé 6",
+			"amount": 100000,
+			"removable": false
+		},
+		{
+			"id": 36,
+			"label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+			"tva": 20,
+			"amount": 17513.67,
+			"removable": false
+		},
+		{
+			"id": 70,
+			"label": "Libellé 8",
+			"tva": 20,
+			"amount": 55.6666666666,
+			"removable": false
+		},
+		{ "id": 1, "label": "Libellé 1", "amount": 100, "removable": true },
+		{ "id": 2, "label": "Libellé 2", "tva": 20, "amount": 120, "removable": true },
+		{ "id": 5, "label": "Libellé 3", "tva": 20, "amount": 115, "removable": true },
+		{ "id": 7, "label": "Libellé 4", "tva": 20, "amount": 30, "removable": true },
+		{ "id": 19, "label": "Libellé 5", "amount": 1, "removable": true },
+		{
+			"id": 34,
+			"label": "Libellé 6",
+			"amount": 100000,
+			"removable": false
+		},
+		{
+			"id": 36,
+			"label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+			"tva": 20,
+			"amount": 17513.67,
+			"removable": false
+		},
+		{
+			"id": 70,
+			"label": "Libellé 8",
+			"tva": 20,
+			"amount": 55.6666666666,
+			"removable": false
+		},
+		{ "id": 1, "label": "Libellé 1", "amount": 100, "removable": true },
+		{ "id": 2, "label": "Libellé 2", "tva": 20, "amount": 120, "removable": true },
+		{ "id": 5, "label": "Libellé 3", "tva": 20, "amount": 115, "removable": true },
+		{ "id": 7, "label": "Libellé 4", "tva": 20, "amount": 30, "removable": true },
+		{ "id": 19, "label": "Libellé 5", "amount": 1, "removable": true },
+		{
+			"id": 34,
+			"label": "Libellé 6",
+			"amount": 100000,
+			"removable": false
+		},
+		{
+			"id": 36,
+			"label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+			"tva": 20,
+			"amount": 17513.67,
+			"removable": false
+		},
+		{
+			"id": 70,
+			"label": "Libellé 8",
+			"tva": 20,
+			"amount": 55.6666666666,
+			"removable": false
+		},
+		{ "id": 1, "label": "Libellé 1", "amount": 100, "removable": true },
+		{ "id": 2, "label": "Libellé 2", "tva": 20, "amount": 120, "removable": true },
+		{ "id": 5, "label": "Libellé 3", "tva": 20, "amount": 115, "removable": true },
+		{ "id": 7, "label": "Libellé 4", "tva": 20, "amount": 30, "removable": true },
+		{ "id": 19, "label": "Libellé 5", "amount": 1, "removable": true },
+		{
+			"id": 34,
+			"label": "Libellé 6",
+			"amount": 100000,
+			"removable": false
+		},
+		{
+			"id": 36,
+			"label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+			"tva": 20,
+			"amount": 17513.67,
+			"removable": false
+		},
+		{
+			"id": 70,
+			"label": "Libellé 8",
+			"tva": 20,
+			"amount": 55.6666666666,
+			"removable": false
+		}
+	]
+}
